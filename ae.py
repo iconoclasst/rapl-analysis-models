@@ -23,13 +23,13 @@ else:
 
 def create_autoencoder(input_size, encoding_dim):
     input_layer = tf.keras.Input(shape=(input_size,))
-    encoded = layers.Dense(64, activation='relu')(input_layer)
-    encoded = layers.Dense(64, activation='relu')(encoded)
-    encoded = layers.Dense(32, activation='relu')(encoded)
+    encoded = layers.Dense(32, activation='relu')(input_layer)
+    # encoded = layers.Dense(64, activation='relu')(encoded)
+    # encoded = layers.Dense(32, activation='relu')(encoded)
     encoded = layers.Dense(encoding_dim, activation='relu')(encoded)
-    decoded = layers.Dense(32, activation='relu')(encoded)
-    decoded = layers.Dense(64, activation='relu')(decoded)
-    decoded = layers.Dense(64, activation='relu')(decoded)
+    # decoded = layers.Dense(32, activation='relu')(encoded)
+    # decoded = layers.Dense(64, activation='relu')(decoded)
+    decoded = layers.Dense(32, activation='relu')(decoded)
     decoded = layers.Dense(input_size, activation='sigmoid')(decoded)
     autoencoder = models.Model(inputs=input_layer, outputs=decoded)
     return autoencoder
