@@ -2,7 +2,8 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 import tensorflow_privacy as tfp
-from tensorflow.keras import Sequential, Dense
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 
 map_ruido = {1: 1.059, 2: 0.8, 3: 0.625}
 print('opções: 1 (0.5); 2 (1.0); 3 (2.0)')
