@@ -1,6 +1,3 @@
-
-opt=1, joules=73,04, seconds=4,699714035
-
 opt=1, joules=1.980,91, seconds=131,796356445
 opt=2, joules=1.844,71, seconds=125,957341709
 opt=3, joules=1.885,81, seconds=128,874968261
