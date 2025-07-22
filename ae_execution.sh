@@ -4,7 +4,7 @@ OUTPUT="results/ae_results.txt"
 PYTHON_BIN="/home/davi/consumo/venv/bin/python3"
 SCRIPT="mod_ae.py"
 
-echo "" > $OUTPUT
+echo "" >> $OUTPUT
 
 for opt in 1 2 3 4 5 6 7 8 9 x; do
     echo "Rodando opção $opt"

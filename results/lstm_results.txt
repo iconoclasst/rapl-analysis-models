@@ -1,0 +1,13 @@
+
+opt=1, joules=73,04, seconds=4,699714035
+
+opt=1, joules=1.980,91, seconds=131,796356445
+opt=2, joules=1.844,71, seconds=125,957341709
+opt=3, joules=1.885,81, seconds=128,874968261
+opt=4, joules=1.852,11, seconds=126,481604219
+opt=5, joules=1.837,26, seconds=125,443128735
+opt=6, joules=1.872,66, seconds=127,835800921
+opt=7, joules=1.857,00, seconds=126,764750480
+opt=8, joules=1.868,49, seconds=127,541868279
+opt=9, joules=1.838,13, seconds=125,680130543
+opt=x, joules=1.581,84, seconds=107,182737548

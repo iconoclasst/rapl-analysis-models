@@ -23,10 +23,10 @@ print("x: sem privacidade (adam)")
 
 nivel = input("Informe o nível (1-9 ou x): ")
 
-X_train_2d = pd.read_csv("../data/lstmx_train.csv").values
+X_train_2d = pd.read_csv("data/lstmx_train.csv").values
 X_train = X_train_2d.reshape(X_train_2d.shape[0], 1, X_train_2d.shape[1])
 
-y_train_1d = pd.read_csv("../data/lstmy_train.csv").values.flatten()
+y_train_1d = pd.read_csv("data/lstmy_train.csv").values.flatten()
 y_train = to_categorical(y_train_1d)
 num_classes = y_train.shape[1]
 
