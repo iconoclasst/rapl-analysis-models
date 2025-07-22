@@ -1,8 +1,8 @@
 #!/bin/bash
 
-OUTPUT="ae_results.txt"
+OUTPUT="results/mlp_results.txt"
 PYTHON_BIN="/home/davi/consumo/venv/bin/python3"
-SCRIPT="mod_ae.py"
+SCRIPT="mod_mlp.py"
 
 echo "" > $OUTPUT
 

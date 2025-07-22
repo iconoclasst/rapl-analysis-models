@@ -8,7 +8,7 @@ map_ruido = {1: 1.059, 2: 0.8, 3: 0.625}
 print('opções: 1 (0.5); 2 (1.0); 3 (2.0)')
 nivel = input("Informe o valor de epsilon (1, 2, 3 ou x): ")
 
-X_ae = pd.read_csv("data/ae_train.csv").values
+X_ae = pd.read_csv("../data/ae_train.csv").values
 
 if nivel.lower() == 'x':
     opt = 'adam'
