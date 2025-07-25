@@ -2,7 +2,7 @@
 
 OUTPUT="results/mlp_results.txt"
 PYTHON_BIN="/home/davi/consumo/venv/bin/python3"
-SCRIPT="mod_mlp.py"
+SCRIPT="models/mod_mlp.py"
 
 echo "" >> $OUTPUT
 

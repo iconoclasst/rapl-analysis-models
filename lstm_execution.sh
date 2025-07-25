@@ -2,7 +2,7 @@
 
 OUTPUT="results/lstm_results.txt"
 PYTHON_BIN="/home/davi/consumo/venv/bin/python3"
-SCRIPT="mod_lstm.py"
+SCRIPT="models/mod_lstm.py"
 
 echo "" >> $OUTPUT
 

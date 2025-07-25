@@ -2,7 +2,7 @@
 
 OUTPUT="results/ae_results.txt"
 PYTHON_BIN="/home/davi/consumo/venv/bin/python3"
-SCRIPT="mod_ae.py"
+SCRIPT="models/mod_ae.py"
 
 echo "" >> $OUTPUT
 

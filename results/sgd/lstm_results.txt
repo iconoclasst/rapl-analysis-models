@@ -9,3 +9,26 @@ opt=7, joules=1.772,22, seconds=121,159982173
 opt=8, joules=1.762,03, seconds=120,514216184
 opt=9, joules=1.788,93, seconds=122,316673954
 opt=x, joules=1.506,27, seconds=102,114307420
+
+opt=1, joules=1.689,89, seconds=117,194245833
+opt=2, joules=1.684,98, seconds=116,834573677
+opt=3, joules=1.675,21, seconds=116,254630232
+opt=4, joules=1.689,48, seconds=117,205052953
+opt=5, joules=1.675,21, seconds=116,227565941
+opt=6, joules=1.701,10, seconds=117,993792427
+opt=7, joules=1.675,96, seconds=116,194430868
+opt=8, joules=1.704,86, seconds=118,034707893
+opt=9, joules=1.691,29, seconds=117,296305831
+opt=x, joules=1.406,95, seconds=100,913917926
+
+opt=1, joules=1.774,38, seconds=121,704766065
+opt=2, joules=1.792,22, seconds=122,429692922
+opt=3, joules=1.774,29, seconds=121,319323149
+opt=4, joules=1.781,81, seconds=121,877500410
+opt=5, joules=1.771,27, seconds=121,205218313
+opt=6, joules=1.780,58, seconds=122,161399410
+opt=7, joules=1.794,21, seconds=122,980165323
+opt=8, joules=1.797,77, seconds=122,982955772
+opt=9, joules=1.765,86, seconds=120,745817714
+opt=x, joules=1.538,11, seconds=104,303932581
+
