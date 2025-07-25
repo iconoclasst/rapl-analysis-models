@@ -21,8 +21,6 @@ opt=8, joules=852,98, seconds=62,353655996
 opt=9, joules=853,90, seconds=62,378242990
 opt=x, joules=706,79, seconds=53,778869909
 
-
-
 opt=1, joules=906,23, seconds=61,987340557
 opt=2, joules=914,95, seconds=62,557931041
 opt=3, joules=909,75, seconds=62,105091926
